@@ -8,3 +8,4 @@ Zone Tansfers copy all records of a DNS from a primary server, to and transfers 
 <img width="1022" height="528" alt="ZoneTransfer" src="https://github.com/user-attachments/assets/b683a313-a2d1-48ee-bce5-f4b2adbf44d1" />
 
 This shows a lot of information about the DNS infrastructure and gives a path for more recon by providing subdomains and ip addresses 
+Zone Transfers are less common in modern infrastructures, however, misconfigured access control gives creates a vulnerabilit. Only allow authorized accounts to zone transfer.
