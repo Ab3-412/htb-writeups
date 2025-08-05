@@ -25,4 +25,6 @@ Screenshot: <img width="1007" height="328" alt="BruteForce_OracleTNS" src="https
 # I found that the SID is XE
 
 Step 3: use enumeration tool to find valid credentials
+# I have found the valid credentials, but I must return to this module after setting up sqlplus properly 
+
 
