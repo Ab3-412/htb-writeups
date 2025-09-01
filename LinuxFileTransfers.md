@@ -41,7 +41,7 @@ And thats it, pretty simple module but it can take awhile if you don't know what
 
 # Bonus - Base64 encode/decode file transfer
 
-I used cat to display the contents of my upload.nix.txt file, this will be used to later confirm a successful transfer (or more accurate, a successful copy)
+I used cat to display the contents of my upload_nix.txt file, this will be used to later confirm a successful transfer (or more accurate, a successful copy)
 
 <img width="532" height="45" alt="Screenshot 2025-09-01 125007" src="https://github.com/user-attachments/assets/e8cd1194-2515-49ef-be5f-5ed91b1a682a" />
 
