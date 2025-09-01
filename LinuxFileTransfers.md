@@ -4,8 +4,8 @@ This module focuses on being able to download and upload files from one machine 
 
 # Step 1 - Upload File to Target Machine
 
-In the HTB module, the lab asks for you to upload a given zip file named "upload_nix.zip" to the target machine
-*The Username/IP/Password were all given for this exercise*
+In the HTB module, the lab asks for you to upload a given zip file named "upload_nix.zip" to the target machine.
+*The Username/IP/Password were all given for this exercise.*
 The method I chose for uploading my file was SCP, which is shown in the screenshot below:
 
 <img width="707" height="172" alt="Screenshot 2025-09-01 120758" src="https://github.com/user-attachments/assets/08bf33d1-1e8f-4f4a-85aa-d3dffa23979e" />
@@ -20,7 +20,7 @@ Now that the file was uploaded successfully, I can now ssh into the target machi
 # Step 3 - Unzip File (Challenge Solved)
 
 It wouldn't be an HTB module without adding an extra challenge.
-Here you can see that I am not allowed to unzip my uploaded file becuae I do not have "unzip" installed. I do not want to talk to an admin of course, so I will see if I can run an unzip command using another method.
+Here you can see that I am not allowed to unzip my uploaded file because I do not have "unzip" installed. I do not want to talk to an admin of course, so I will see if I can run an unzip command using another method.
 
 <img width="639" height="142" alt="Screenshot 2025-09-01 124022" src="https://github.com/user-attachments/assets/f3e767c6-377a-41fa-93c0-f06983476119" />
 
