@@ -1,8 +1,8 @@
-#Linux File Transfers HTB Module 
+# Linux File Transfers HTB Module 
 
 This module focuses on being able to download and upload files from one machine to another. The lab also challenges you by limiting the environment you ssh into, which I will show how I still executed the desired commands 
 
-#Step 1 - Upload File to Target Machine
+# Step 1 - Upload File to Target Machine
 
 In the HTB module, the lab asks for you to upload a given zip file named "upload_nix.zip" to the target machine
 *The Username/IP/Password were all given for this exercise*
@@ -10,14 +10,14 @@ The method I chose for uploading my file was SCP, which is shown in the screensh
 
 <img width="707" height="172" alt="Screenshot 2025-09-01 120758" src="https://github.com/user-attachments/assets/08bf33d1-1e8f-4f4a-85aa-d3dffa23979e" />
 
-#Step 2 - SSH into Target Machine
+# Step 2 - SSH into Target Machine
 
 Now that the file was uploaded successfully, I can now ssh into the target machine and see my uploaded file:
 
 <img width="1243" height="772" alt="Screenshot 2025-09-01 120932" src="https://github.com/user-attachments/assets/764d03c8-1d31-4014-9c54-4e042dc982fe" />
 
 
-#Step 3 - Unzip File (Challenge Solved)
+# Step 3 - Unzip File (Challenge Solved)
 
 It wouldn't be an HTB module without adding an extra challenge.
 Here you can see that I am not allowed to unzip my uploaded file becuae I do not have "unzip" installed. I do not want to talk to an admin of course, so I will see if I can run an unzip command using another method.
@@ -39,7 +39,7 @@ I now go into my new extracted directory so I can run the given "hasher" command
 And thats it, pretty simple module but it can take awhile if you don't know what to look for
 
 
-#Bonus - Base64 encode/decode file transfer
+# Bonus - Base64 encode/decode file transfer
 
 I used cat to display the contents of my upload.nix.txt file, this will be used to later confirm a successful transfer (or more accurate, a successful copy)
 
