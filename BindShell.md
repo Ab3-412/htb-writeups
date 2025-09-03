@@ -14,7 +14,7 @@ It was easy to remember this command line since the HTB lab kept freezing, I pro
 
 # Step 4 - CD into /customscripts directory and display the contents of the flag.txt file 
 <img width="418" height="28" alt="Screenshot 2025-09-03 193057" src="https://github.com/user-attachments/assets/3264c878-354d-438b-b8ed-c957e88a6730" />
-
+<br>
 <img width="405" height="38" alt="Screenshot 2025-09-03 193105" src="https://github.com/user-attachments/assets/09b50450-6a9d-4704-a69d-46cad38d5ae6" />
-
+<br>
 <img width="632" height="55" alt="Screenshot 2025-09-03 193112" src="https://github.com/user-attachments/assets/1c9f5d37-d0b5-4003-9eef-554b4e14b6d5" />
