@@ -12,7 +12,9 @@ It was easy to remember this command line since the HTB lab kept freezing, I pro
 # Step 3 - Connect to target's listener from attack box
 <img width="523" height="60" alt="Screenshot 2025-09-03 193041" src="https://github.com/user-attachments/assets/66f395ef-a3bf-4185-8982-c275e4a928b5" />
 
-# Step 4 - Cd into /customscripts directory and display the contents of the flag.txt file 
+# Step 4 - CD into /customscripts directory and display the contents of the flag.txt file 
 <img width="418" height="28" alt="Screenshot 2025-09-03 193057" src="https://github.com/user-attachments/assets/3264c878-354d-438b-b8ed-c957e88a6730" />
+
 <img width="405" height="38" alt="Screenshot 2025-09-03 193105" src="https://github.com/user-attachments/assets/09b50450-6a9d-4704-a69d-46cad38d5ae6" />
+
 <img width="632" height="55" alt="Screenshot 2025-09-03 193112" src="https://github.com/user-attachments/assets/1c9f5d37-d0b5-4003-9eef-554b4e14b6d5" />
