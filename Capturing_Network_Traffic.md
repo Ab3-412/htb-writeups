@@ -2,7 +2,7 @@
 
 <h2>Filter Traffic on Wireshark</h2>
 <p>I chose to searfch for the string "card", since the lab is asking to find credit card information</p>
-<img width="2557" height="148" alt="Screenshot 2025-12-11 120716" src="https://github.com/user-attachments/assets/c774bd5b-8bd9-4f89-abb0-19b9114d60b4" />
+<img width="2557" height="600" alt="Screenshot 2025-12-11 120716" src="https://github.com/user-attachments/assets/c774bd5b-8bd9-4f89-abb0-19b9114d60b4" />
 <br> 
 <br>
 <h2>Credential Hunting</h2>
