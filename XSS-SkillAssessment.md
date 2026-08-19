@@ -1,6 +1,6 @@
 <h1> HTB XSS Skill Assessment</h1>
 
-<h2>Find Vulnerable Field</h2>
+<h3>Find Vulnerable Field</h3>
 <br>
 <p>We can start a php listener which can be used to validate which field/s are vulnerable </p>
 <img width="247" height="47" alt="listener" src="https://github.com/user-attachments/assets/c564858d-34d9-40d9-9a51-75b8ecb2ec68" />
